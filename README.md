@@ -1,2 +1,4 @@
-# hello-world
-pierwsze repozytorium
+# hello-world   
+pierwsze repozytorium                                                                                                                                       
+uczę sie programować  
+  
